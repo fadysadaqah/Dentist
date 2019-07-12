@@ -1,0 +1,24 @@
+{
+  "name": "dentist",
+  "version": "1.0.0",
+  "description": "dentist website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadysadaqah/Dentist.git"
+  },
+  "author": "FGS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadysadaqah/Dentist/issues"
+  },
+  "homepage": "https://github.com/fadysadaqah/Dentist#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
